@@ -1,0 +1,21 @@
+li{
+    font-size: 18px;
+    padding-top: 30px;
+}
+
+.refund-policy{
+    margin: 100px 300px;
+}
+
+.card{
+    padding: 70px 40px;
+    border: none;
+    box-sizing: border-box;
+    box-shadow: 0 5px 20px rgba(0,0,0,.4);
+    border-radius: 10px;
+}
+
+.refund-policy h1{
+    font-size: 36px;
+    font-weight: bold;
+}
